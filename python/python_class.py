@@ -17,7 +17,7 @@
 # print(a)
 # type() function: to check the type of character
 a = 46
-name = 'aman'
+name = 'monika'
 marks = 99.9
 print(type(a))
 print(type(name))
