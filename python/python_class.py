@@ -31,7 +31,3 @@ print(type(marks))
 # OPERATORS
 # **:power
 # \\:floor division
-a = 2**6
-print(a)
-c = 12//6
-print(c)
